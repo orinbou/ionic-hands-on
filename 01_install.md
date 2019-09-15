@@ -21,17 +21,17 @@ v10.16.3
 ### ionic の install
 
 ```
-$ npm install -g ionic@5.2.7
+$ npm install -g ionic@5.2.3
 $ ionic -v
-5.2.7
+5.2.3
 ```
 
 ### cordova の install
 
 ```
-$ npm install -g cordova@9.0.0
+$ npm install -g cordova@8.0.0
 $ cordova -v
-9.0.0 (cordova-lib@9.0.1)
+8.0.0
 ```
 
 ### おまけ
@@ -42,7 +42,7 @@ $ ionic info
   
   Ionic:
   
-     Ionic CLI : 5.2.7
+     Ionic CLI : 5.2.3
   
   Utility:
   
