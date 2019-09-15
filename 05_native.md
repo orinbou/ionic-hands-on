@@ -50,9 +50,9 @@ or
 $ ionic cordova resources android
 ```
 
-### CircleCIでビルドできるようにする
+### 外部サービスと連携してビルド＆配布できるようにする
 
-以下のとおりNativeアプリのビルド設定ファイルを追加する。（※現在はAndroidアプリのみ対象とする）
+以下のとおりNativeアプリのCircleCIビルド設定ファイルを追加する。（※現在はAndroidアプリのみ対象とする）
 
 * [編集内容はこちら](https://github.com/orinbou/ionic-hands-on-app/blob/native/circleci/.circleci/config.yml)
 
