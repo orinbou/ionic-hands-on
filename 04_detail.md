@@ -2,6 +2,13 @@
 
 Ionic CLIで画面クラスを追加して詳細情報を表示します。
 
+* 作業ブランチINDEX  
+https://github.com/orinbou/ionic-hands-on-app/tree/detail/1
+https://github.com/orinbou/ionic-hands-on-app/tree/detail/2
+https://github.com/orinbou/ionic-hands-on-app/tree/detail/3
+https://github.com/orinbou/ionic-hands-on-app/tree/detail/4
+https://github.com/orinbou/ionic-hands-on-app/tree/detail/5
+
 ### 画面クラスを追加する
 
 以下コマンドで画面クラスを作成する

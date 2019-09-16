@@ -1,6 +1,18 @@
-## Nativeアプリの実装
+## Nativeアプリの実装1
 
 cordova pluginを使用してNativeアプリを作成します。
+
+* 作業ブランチINDEX  
+https://github.com/orinbou/ionic-hands-on-app/tree/native/1
+https://github.com/orinbou/ionic-hands-on-app/tree/native/circleci
+
+### cordova の install
+* cordova[https://cordova.apache.org/]
+```
+$ npm install -g cordova@8.0.0
+$ cordova -v
+8.0.0
+```
 
 ### 実機でNativeアプリをデバッグ実行する
 
@@ -68,7 +80,7 @@ https://github.com/orinbou/ionic-hands-on-app/tree/native/circleci
 
 ### ビルドしたNativeアプリを実機で実行する
 
-ビルドしたNativeアプリをdeploygateの下記URLからインストールする。
+ビルドしたNativeアプリをdeploygate（下記URL）からインストールする。
 
 https://deploygate.com/users/orinbou/apps/jp.orinbou.ionic.hands.on.app
 

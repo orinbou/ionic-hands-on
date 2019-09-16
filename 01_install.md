@@ -3,7 +3,6 @@
 * Chrome
 * nodejs[https://nodejs.org/ja/]
 * ionic[https://ionicframework.com/]
-* cordova[https://cordova.apache.org/]
 
 ## (Optional)
 
@@ -24,14 +23,6 @@ v10.16.3
 $ npm install -g ionic@5.2.3
 $ ionic -v
 5.2.3
-```
-
-### cordova の install
-
-```
-$ npm install -g cordova@8.0.0
-$ cordova -v
-8.0.0
 ```
 
 ### おまけ

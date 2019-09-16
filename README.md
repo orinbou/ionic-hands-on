@@ -1,7 +1,8 @@
 # ハンズオン
 
 Ionicのハンズオンです。  
-WordPressのWebAPIと連携した簡単なアプリの実装をゴールとします。
+* WordPressのWebAPIと連携した簡単なアプリの実装をゴールとします。（Webアプリ）
+* Nativeアプリのビルド、配布、Native機能の連携はデモのみとします。（Nativeアプリ）
 
 ## 目次
 
@@ -9,7 +10,8 @@ WordPressのWebAPIと連携した簡単なアプリの実装をゴールとし�
 1. [アプリケーションの作成 @ 15min](02_startup.md)
 1. [一覧表示画面の実装 @ 25min](03_list.md)
 1. [詳細表示画面の実装 @ 20min](04_detail.md)
-1. [Nativeアプリの実装 @ Demo](05_native.md)
+1. [Nativeアプリの実装1 @ Demo](05_native.md)
+1. [Nativeアプリの実装2 @ Demo](06_camera.md)
 
 ## その他
 
@@ -18,8 +20,9 @@ WordPressのWebAPIと連携した簡単なアプリの実装をゴールとし�
 
 https://github.com/orinbou/ionic-hands-on-app
 
+作業断面は、Gitクローン後、対象ブランチを切替えて随時確認してください。
 ```
-# startup/1 に変更
+# 対象ブランチ(xxxxx) への変更
 $ git clone git@github.com:orinbou/ionic-hands-on-app.git
-$ git checkout startup/1
+$ git checkout xxxxx
 ```
