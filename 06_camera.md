@@ -4,8 +4,8 @@ cordova pluginを使用してNative機能（カメラ）と連携できるよう
 （※参考：https://ionicframework.com/jp/docs/angular/your-first-app/ios-android-camera）
 
 * 作業ブランチINDEX  
-https://github.com/orinbou/ionic-hands-on-app/tree/camera/1
-https://github.com/orinbou/ionic-hands-on-app/tree/camera/2
+https://github.com/orinbou/ionic-hands-on-app/tree/camera/1  
+https://github.com/orinbou/ionic-hands-on-app/tree/camera/2  
 
 ### CLI を介してカメラの依存関係を追加
 

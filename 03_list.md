@@ -3,9 +3,9 @@
 Ionic CLIでサービスクラスを追加して投稿一覧を表示します。
 
 * 作業ブランチINDEX  
-https://github.com/orinbou/ionic-hands-on-app/tree/list/1
-https://github.com/orinbou/ionic-hands-on-app/tree/list/2
-https://github.com/orinbou/ionic-hands-on-app/tree/list/3
+https://github.com/orinbou/ionic-hands-on-app/tree/list/1  
+https://github.com/orinbou/ionic-hands-on-app/tree/list/2  
+https://github.com/orinbou/ionic-hands-on-app/tree/list/3  
 
 ### APIサービスクラスを追加する
 
