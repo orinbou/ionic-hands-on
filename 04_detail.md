@@ -88,6 +88,10 @@ https://github.com/orinbou/ionic-hands-on-app/tree/detail/4
 
 https://github.com/orinbou/ionic-hands-on-app/tree/detail/5
 
+ビルドアプリ(Netlify):
+
+https://silly-colden-00a3e4.netlify.com/
+
 ### PWAアプリにする
 
 以下コマンドでWebアプリをPWA化する
@@ -103,3 +107,7 @@ $ ng add @angular/pwa
 対象ブランチ: `detail/pwa` 
 
 https://github.com/orinbou/ionic-hands-on-app/tree/detail/pwa
+
+ビルドアプリ(Netlify):
+
+https://thirsty-goodall-1394e4.netlify.com/
