@@ -8,6 +8,7 @@ https://github.com/orinbou/ionic-hands-on-app/tree/detail/2
 https://github.com/orinbou/ionic-hands-on-app/tree/detail/3
 https://github.com/orinbou/ionic-hands-on-app/tree/detail/4
 https://github.com/orinbou/ionic-hands-on-app/tree/detail/5
+https://github.com/orinbou/ionic-hands-on-app/tree/detail/pwa
 
 ### 画面クラスを追加する
 
@@ -86,3 +87,19 @@ https://github.com/orinbou/ionic-hands-on-app/tree/detail/4
 対象ブランチ: `detail/5` 
 
 https://github.com/orinbou/ionic-hands-on-app/tree/detail/5
+
+### PWAアプリにする
+
+以下コマンドでWebアプリをPWA化する
+
+```
+$ ng add @angular/pwa
+```
+
+* [編集内容はこちら](https://github.com/orinbou/ionic-hands-on-app/compare/detail/5...detail/pwa)
+
++ 作業断面
+
+対象ブランチ: `detail/pwa` 
+
+https://github.com/orinbou/ionic-hands-on-app/tree/detail/pwa
