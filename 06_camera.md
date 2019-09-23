@@ -1,6 +1,6 @@
 ## Nativeアプリの実装2
 
-cordova pluginを使用してNative機能（カメラ）と連携できるようにします。
+cordova pluginを使用してNative機能（カメラ）と連携できるようにします。  
 （※参考：https://ionicframework.com/jp/docs/angular/your-first-app/ios-android-camera）
 
 * 作業ブランチINDEX  
